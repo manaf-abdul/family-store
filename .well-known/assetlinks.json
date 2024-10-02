@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.familystoreksa.app.twa",
+        "sha256_cert_fingerprints": [
+          "7A:5E:A9:D5:AD:F8:2C:D9:4A:1D:A4:BF:B1:56:D3:92:E3:32:12:8E:00:70:45:11:8D:F1:4D:59:D5:F1:C9:66"
+        ]
+      }
+    }
+  ]
